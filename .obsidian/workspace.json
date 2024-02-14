@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 406.5
   },
   "right": {
     "id": "c44e06c1a9c78e2a",
@@ -161,9 +161,9 @@
   },
   "active": "53134912c7ea1d16",
   "lastOpenFiles": [
+    "README.md",
     "Development Resources.md",
     "System Resources.md",
-    "README.md",
     "Github Authentication/Github Access Tokens.md",
     "ADMIN - Package Management/APT Package Manager Explicitly Installed (Manual)/Aggregated Listing Of Currently Installed Packages.md",
     "ADMIN - Personal Access Tokens/Github Personal Access Token Administration.md",
