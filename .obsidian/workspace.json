@@ -11,11 +11,28 @@
             "id": "8eb9fb8d9d7e1c49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Development Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53134912c7ea1d16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Resources.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "System Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "System Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "System Resources.md"
+              }
             }
           }
         ]
@@ -138,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8eb9fb8d9d7e1c49",
+  "active": "53134912c7ea1d16",
   "lastOpenFiles": [
+    "Development Resources.md",
+    "System Resources.md",
+    "README.md",
     "Github Authentication/Github Access Tokens.md",
     "ADMIN - Package Management/APT Package Manager Explicitly Installed (Manual)/Aggregated Listing Of Currently Installed Packages.md",
     "ADMIN - Personal Access Tokens/Github Personal Access Token Administration.md",
@@ -151,7 +175,6 @@
     "Github Course For Beginners/HOW TO - Generate A New GPG Key.md",
     "Github Course For Beginners/Intro To Github For Beginners.md",
     "RESOURCES.md",
-    "README.md",
     "ADMIN - Package Management/Snap Installations/'Snap', 'LSD', & 'The Snap Store'.md",
     "Linux Security - App Armor/App Armor & App Armor Profiles Overview.md",
     "[.md",
