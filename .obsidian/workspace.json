@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "b5907e0f5207337e",
+    "id": "cd2135237546b7ed",
     "type": "split",
     "children": [
       {
-        "id": "6e85d39d22eb7ae9",
+        "id": "620b357cabd83bf8",
         "type": "tabs",
         "children": [
           {
-            "id": "71088e733de32d1e",
+            "id": "8eb9fb8d9d7e1c49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Development Resources.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c7e6c4c00a45f048",
+    "id": "deba4dcdb91c25c4",
     "type": "split",
     "children": [
       {
-        "id": "09839e20c06b80c0",
+        "id": "cc0adf283ec98ce9",
         "type": "tabs",
         "children": [
           {
-            "id": "fbaa83dbe509445a",
+            "id": "2b2294f3044f833e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "073a5886c4da66f9",
+            "id": "718718ba46e90051",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "a8c91c73fb96605e",
+            "id": "e5de362767b2965c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 411.5
   },
   "right": {
-    "id": "283c9f4cc429a351",
+    "id": "c44e06c1a9c78e2a",
     "type": "split",
     "children": [
       {
-        "id": "abd5ac7dd28465e6",
+        "id": "314303740e76e2ea",
         "type": "tabs",
         "children": [
           {
-            "id": "f5fb8f36089a7c41",
+            "id": "096e368792b678d9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "0975079c5e0d21ca",
+            "id": "516f3742f6b74640",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4e3e38fee739927e",
+            "id": "842766fe32b51f3d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "f0a8b23c9ad9f15d",
+            "id": "e7ac95eb8ab2c2b7",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Development Resources.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,9 +138,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71088e733de32d1e",
+  "active": "8eb9fb8d9d7e1c49",
   "lastOpenFiles": [
-    "Development Resources.md",
-    "Development Resources"
+    "Github Authentication/Github Access Tokens.md",
+    "ADMIN - Package Management/APT Package Manager Explicitly Installed (Manual)/Aggregated Listing Of Currently Installed Packages.md",
+    "ADMIN - Personal Access Tokens/Github Personal Access Token Administration.md",
+    "Github Course For Beginners/HOW TO - Manage Your GPG Keys In Linux.md",
+    "ADMIN - Personal Access Tokens",
+    "Github Course For Beginners/HOW TO - Associate GPG Key & Email For Github.md",
+    "Github Course For Beginners/HOW TO - 'SSH' Versus 'GPG' In Github.md",
+    "Github Course For Beginners/HOW TO - Authenticating To Github With SSH.md",
+    "Github Course For Beginners/HOW TO - Generate A New GPG Key.md",
+    "Github Course For Beginners/Intro To Github For Beginners.md",
+    "RESOURCES.md",
+    "README.md",
+    "ADMIN - Package Management/Snap Installations/'Snap', 'LSD', & 'The Snap Store'.md",
+    "Linux Security - App Armor/App Armor & App Armor Profiles Overview.md",
+    "[.md",
+    "Linux Security - App Armor",
+    "ADMIN - Package Management/Flatpak Installations",
+    "ADMIN - Package Management",
+    "ADMIN - Package Management/APT Package Manager Automatic Installed (Automatic)",
+    "ADMIN - Package Management/APT Package Manager Explicitly Installed (Manual)",
+    "ADMIN - Package Management/App Image Installations",
+    "ADMIN - Package Management/Snap Installations",
+    "Github Authentication",
+    "Github Course For Beginners/Your Personal Dashboard.md",
+    "Github Course For Beginners/Inspiration On Github.md",
+    "Github Course For Beginners/GitHub 'Hello World' Tutorial.md",
+    "Github Course For Beginners",
+    "How To Work With Github/How To Use Github.md"
   ]
 }
